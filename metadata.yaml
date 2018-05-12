@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2161
     wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46330#The-Introduction-to-Hegel-s-Philosophy-of-Fine-ArtsTranslated-from-the-German-with-Notes-and-_
 gutenberg_issued: '2014-07-20'
 gutenberg_type: Text
 identifiers:
