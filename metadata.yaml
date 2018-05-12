@@ -1,0 +1,38 @@
+_repo: The-Introduction-to-Hegel-s-Philosophy-of-Fine-ArtsTranslated-from-the-German-with-Notes-and-__46330
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bosanquet, Bernard
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '43732'
+    url: http://www.gutenberg.org/2009/agents/43732
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+description: ''
+gutenberg_issued: '2014-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Philosophy'
+- !lcsh 'Aesthetics'
+- !lcc 'N'
+title: 'The Introduction to Hegel''s Philosophy of Fine Arts
+
+  Translated from the German with Notes and Prefatory Essay'
+url: http://www.gutenberg.org/ebooks/46330
